@@ -6,64 +6,74 @@
 
 ## Skills
 
-<p align="left">
-  <strong>Languages:</strong>
-  <img src="assets/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
-  <img src="assets/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
-  <img src="assets/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
-  <img src="assets/skills/c-colored.svg" alt="C" title="C" width="36" height="36" />
-  <img src="assets/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" />
-  <img src="assets/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" />
-</p>
-
-<p align="left">
-  <strong>Frontend:</strong>
-  <img src="assets/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
-  <img src="assets/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
-  <img src="assets/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
-  <img src="assets/skills/nextjs-colored.svg" alt="NextJs" title="NextJs" width="36" height="36" />
-  <img src="assets/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" />
-  <img src="assets/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" />
-  <img src="assets/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" />
-</p>
-
-<p align="left">
-  <strong>Backend:</strong>
-  <img src="assets/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" />
-  <img src="assets/skills/express-colored.svg" alt="Express" title="Express" width="36" height="36" />
-  <img src="assets/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" />
-  <img src="assets/skills/flask-colored.svg" alt="Flask" title="Flask" width="36" height="36" />
-  <img src="assets/skills/django-colored.svg" alt="Django" title="Django" width="36" height="36" />
-  <img src="assets/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" />
-</p>
-
-<p align="left">
-  <strong>Databases:</strong>
-  <img src="assets/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
-  <img src="assets/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
-  <img src="assets/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
-</p>
-
-<p align="left">
-  <strong>Cloud &amp; DevOps:</strong>
-  <img src="assets/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" />
-  <img src="assets/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
-  <img src="assets/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
-  <img src="assets/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
-</p>
-
-<p align="left">
-  <strong>AI &amp; ML:</strong>
-  <img src="assets/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" />
-  <img src="assets/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" />
-  <img src="assets/skills/huggingface-colored.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" />
-</p>
-
-<p align="left">
-  <strong>Tools:</strong>
-  <img src="assets/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-  <img src="assets/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" />
-</p>
+<table border="0" width="100%" cellspacing="0" cellpadding="6">
+  <tr>
+    <td valign="middle" width="200"><strong>Languages:</strong></td>
+    <td valign="middle">
+      <img src="assets/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" />
+      <img src="assets/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" />
+      <img src="assets/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" />
+      <img src="assets/skills/c-colored.svg" alt="C" title="C" width="36" height="36" />
+      <img src="assets/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" />
+      <img src="assets/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="200"><strong>Frontend:</strong></td>
+    <td valign="middle">
+      <img src="assets/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
+      <img src="assets/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
+      <img src="assets/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
+      <img src="assets/skills/nextjs-colored.svg" alt="NextJs" title="NextJs" width="36" height="36" />
+      <img src="assets/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" />
+      <img src="assets/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" />
+      <img src="assets/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="200"><strong>Backend:</strong></td>
+    <td valign="middle">
+      <img src="assets/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" />
+      <img src="assets/skills/express-colored.svg" alt="Express" title="Express" width="36" height="36" />
+      <img src="assets/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" />
+      <img src="assets/skills/flask-colored.svg" alt="Flask" title="Flask" width="36" height="36" />
+      <img src="assets/skills/django-colored.svg" alt="Django" title="Django" width="36" height="36" />
+      <img src="assets/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="200"><strong>Databases:</strong></td>
+    <td valign="middle">
+      <img src="assets/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
+      <img src="assets/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
+      <img src="assets/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="200"><strong>Cloud &amp; DevOps:</strong></td>
+    <td valign="middle">
+      <img src="assets/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" />
+      <img src="assets/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
+      <img src="assets/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
+      <img src="assets/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="200"><strong>AI &amp; ML:</strong></td>
+    <td valign="middle">
+      <img src="assets/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" />
+      <img src="assets/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" />
+      <img src="assets/skills/huggingface-colored.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="middle" width="200"><strong>Tools:</strong></td>
+    <td valign="middle">
+      <img src="assets/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
+      <img src="assets/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" />
+    </td>
+  </tr>
+</table>
 
 ## Socials
 
