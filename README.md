@@ -17,20 +17,20 @@
   <img src="assets/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
   <img src="assets/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" />
   <img src="assets/skills/react-colored.svg" alt="React" title="React" width="36" height="36" />
-  <img src="assets/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" />
+  <img src="assets/skills/nextjs-colored.svg" alt="NextJs" title="NextJs" width="36" height="36" />
   <img src="assets/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" />
   <img src="assets/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" />
   <img src="assets/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" />
   <img src="assets/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" />
-  <img src="assets/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" />
+  <img src="assets/skills/express-colored.svg" alt="Express" title="Express" width="36" height="36" />
   <img src="assets/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" />
   <img src="assets/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" />
   <img src="assets/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" />
   <img src="assets/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" />
   <img src="assets/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" />
-  <img src="assets/skills/flask-colored-dark.svg" alt="Flask" title="Flask" width="36" height="36" />
+  <img src="assets/skills/flask-colored.svg" alt="Flask" title="Flask" width="36" height="36" />
   <img src="assets/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" />
-  <img src="assets/skills/django-colored-dark.svg" alt="Django" title="Django" width="36" height="36" />
+  <img src="assets/skills/django-colored.svg" alt="Django" title="Django" width="36" height="36" />
   <img src="assets/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" />
   <img src="assets/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" />
   <img src="assets/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" />
