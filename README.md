@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github_banner_slow.gif" alt="Real Actioner" />
+  <img src="assets/github_banner.gif" alt="Real Actioner" />
 </p>
 
 * ✉️  You can contact me at [realactioner@gmail.com](mailto:realactioner@gmail.com)
