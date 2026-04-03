@@ -62,15 +62,13 @@
   <tr>
     <td valign="middle" width="200"><strong>AI &amp; ML:</strong></td>
     <td valign="middle">
+      <img src="assets/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" />
+      <img src="assets/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" />
       <img src="assets/skills/openai-colored.svg" alt="OpenAI" title="OpenAI" width="36" height="36" />
+      <img src="assets/skills/huggingface-colored.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" />
       <img src="assets/skills/langchain-colored.svg" alt="LangChain" title="LangChain" width="36" height="36" />
       <img src="assets/skills/langgraph-colored.svg" alt="LangGraph" title="LangGraph" width="36" height="36" />
       <img src="assets/skills/crewai-colored.svg" alt="CrewAI" title="CrewAI" width="36" height="36" />
-      <img src="assets/skills/rag-colored.svg" alt="RAG" title="RAG (retrieval-augmented generation)" width="36" height="36" />
-      <img src="assets/skills/prompt-engineering-colored.svg" alt="Prompt engineering" title="Prompt engineering" width="36" height="36" />
-      <img src="assets/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" />
-      <img src="assets/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" />
-      <img src="assets/skills/huggingface-colored.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" />
     </td>
   </tr>
 </table>
