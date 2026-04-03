@@ -2,8 +2,6 @@
   <img src="assets/github_banner.gif" alt="Real Actioner" />
 </p>
 
-* ✉️  You can contact me at [realactioner@gmail.com](mailto:realactioner@gmail.com)
-
 ## Skills
 
 <table border="0" width="100%" cellspacing="0" cellpadding="6">
@@ -77,12 +75,12 @@
 
 ## Socials
 
-<p align="left">
-  <a href="https://www.github.com/realactioner" target="_blank" rel="noreferrer">
+<p align="center">
+  <a href="mailto:realactioner@gmail.com" rel="noreferrer">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+      <source media="(prefers-color-scheme: dark)" srcset="assets/socials/email-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="assets/socials/email.svg" />
+      <img src="assets/socials/email.svg" width="32" height="32" alt="Email" title="Email" />
     </picture>
   </a>
   <a href="http://www.medium.com/realactioner" target="_blank" rel="noreferrer">
