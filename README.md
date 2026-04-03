@@ -2,12 +2,12 @@
   <img src="assets/github_banner.gif" alt="Real Actioner" />
 </p>
 
-## Skills
+## 🛠️ Skills
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="6">
     <tr>
-      <td valign="middle" width="200"><strong>Languages:</strong></td>
+      <td valign="middle" width="200"><strong>💻 Languages:</strong></td>
       <td valign="middle">
         <img src="assets/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" style="margin: 0 6px" />
         <img src="assets/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" style="margin: 0 6px" />
@@ -18,7 +18,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="middle" width="200"><strong>Frontend:</strong></td>
+      <td valign="middle" width="200"><strong>🎨 Frontend:</strong></td>
       <td valign="middle">
         <img src="assets/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" style="margin: 0 6px" />
         <img src="assets/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" style="margin: 0 6px" />
@@ -30,7 +30,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="middle" width="200"><strong>Backend:</strong></td>
+      <td valign="middle" width="200"><strong>⚙️ Backend:</strong></td>
       <td valign="middle">
         <img src="assets/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" style="margin: 0 6px" />
         <img src="assets/skills/express-colored.svg" alt="Express" title="Express" width="36" height="36" style="margin: 0 6px" />
@@ -41,7 +41,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="middle" width="200"><strong>Databases:</strong></td>
+      <td valign="middle" width="200"><strong>🗄️ Databases:</strong></td>
       <td valign="middle">
         <img src="assets/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" style="margin: 0 6px" />
         <img src="assets/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" style="margin: 0 6px" />
@@ -51,7 +51,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="middle" width="200"><strong>Cloud &amp; DevOps:</strong></td>
+      <td valign="middle" width="200"><strong>☁️ Cloud &amp; DevOps:</strong></td>
       <td valign="middle">
         <img src="assets/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" style="margin: 0 6px" />
         <img src="assets/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" style="margin: 0 6px" />
@@ -61,7 +61,7 @@
       </td>
     </tr>
     <tr>
-      <td valign="middle" width="200"><strong>AI &amp; ML:</strong></td>
+      <td valign="middle" width="200"><strong>🤖 AI &amp; ML:</strong></td>
       <td valign="middle">
         <img src="assets/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" style="margin: 0 6px" />
         <img src="assets/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" style="margin: 0 6px" />
@@ -75,7 +75,7 @@
   </table>
 </div>
 
-## Socials
+## 🔗 Socials
 
 <p align="center">
   <a href="mailto:realactioner@gmail.com" rel="noreferrer" style="display: inline-block; margin: 0 12px">
