@@ -64,13 +64,6 @@
       <img src="assets/skills/huggingface-colored.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" />
     </td>
   </tr>
-  <tr>
-    <td valign="middle" width="200"><strong>Tools:</strong></td>
-    <td valign="middle">
-      <img src="assets/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" />
-      <img src="assets/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" />
-    </td>
-  </tr>
 </table>
 
 ## Socials
