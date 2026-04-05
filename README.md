@@ -74,29 +74,3 @@
     </tr>
   </table>
 </div>
-
-## 🔗 Socials
-
-<p align="center">
-  <a href="mailto:realactioner@gmail.com" rel="noreferrer" style="display: inline-block; margin: 0 12px">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/socials/email-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="assets/socials/email.svg" />
-      <img src="assets/socials/email.svg" width="32" height="32" alt="Email" title="Email" />
-    </picture>
-  </a>
-  <a href="http://www.medium.com/realactioner" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 12px">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" />
-    </picture>
-  </a>
-  <a href="https://www.dev.to/realactioner" target="_blank" rel="noreferrer" style="display: inline-block; margin: 0 12px">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" />
-    </picture>
-  </a>
-</p>
