@@ -5,7 +5,7 @@
 ## 🛠️ Skills
 
 <div align="left">
-  <table border="0" cellspacing="0" cellpadding="6">
+  <table border="0" width="100%" cellspacing="0" cellpadding="6">
     <tr>
       <td valign="middle" width="200"><strong>💻 Languages:</strong></td>
       <td valign="middle">
