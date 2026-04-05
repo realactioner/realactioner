@@ -1,6 +1,8 @@
-<p align="center">
-  <img src="assets/github_banner.gif" alt="Real Actioner" />
-</p>
+## Hi there 👋
+
+I'm a full-stack and mobile engineer with 8+ years shipping production software in fintech and AI automation. I build end-to-end: React and TypeScript on the web, React Native for iOS and Android, Python and Node services, and cloud-backed integrations—focused on reliability, performance, and adoption.
+
+These days I work mainly on LLM-powered products: orchestration, retrieval, and automation with OpenAI, LangChain, and the broader agent/RAG stack.
 
 ## 🛠️ Skills
 
