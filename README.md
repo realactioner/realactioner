@@ -4,7 +4,7 @@
 
 ## 🛠️ Skills
 
-<div align="center">
+<div align="left">
   <table border="0" cellspacing="0" cellpadding="6">
     <tr>
       <td valign="middle" width="200"><strong>💻 Languages:</strong></td>
