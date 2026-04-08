@@ -1,10 +1,11 @@
-## Hi there 👋
+<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
-I'm a full-stack and mobile engineer with 8+ years shipping production software in fintech and AI automation.
+<h1 align="center">Hi 👋, I'm Real Actioner</h1>
+<h3 align="center">A passionate Software Engineer & Problem Solver </h3>
 
-I build end-to-end: React and TypeScript on the web, React Native for iOS and Android, Python and Node services, and cloud-backed integrations—focused on reliability, performance, and adoption.
-
-These days I work mainly on LLM-powered products: orchestration, retrieval, and automation with OpenAI, LangChain, and the broader agent/RAG stack.
+<p align="center"> 
+ <img src="https://img.shields.io/badge/Languages-Python | Java | Javascript | Typescript | C++ -green.svg" alt="Real Actioner's languages" />
+</p>
 
 ## 🛠️ Skills
 
