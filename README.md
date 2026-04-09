@@ -9,13 +9,13 @@
 
 <br>
 
-- 🔭 I have 8+ years of experience in Full Stack Development, AI Engineering, and Mobile Development
+- 🔭 8+ years in **Full Stack**, **AI**, and **Mobile Development**
 
-- 🌱 I’m currently building real-time AI-powered systems using LangChain, FastAPI, and OpenAI to accelerate knowledge extraction and document analysis
+- 🌱 Currently building **real-time AI systems** with **LangChain** and **OpenAI**
 
-- 💬 Ask me about web development, backend optimization, machine learning applications, or how to integrate LLMs into production-grade systems
+- 💬 Ask me about **backend optimization** and **machine learning**
 
-- 🤖 Fun fact If you laid all the cables in the world end-to-end, they could circle the Earth more than 200 times!
+- 🤖 Fun fact **If you laid all the cables in the world, they'd circle the Earth 200+ times**
 
 <br>
 
