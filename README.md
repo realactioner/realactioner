@@ -27,7 +27,7 @@
       <strong>Languages</strong>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,java" />
+          <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,java&theme=dark" alt="Languages" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
@@ -35,7 +35,7 @@
       <strong>Frontend</strong>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,materialui,redux" />
+          <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,materialui,redux&theme=dark" alt="Frontend" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
@@ -43,9 +43,9 @@
   <tr>
     <td valign="top" width="50%">
       <strong>Mobile</strong>
-      <p align="left">
-        <span style="display: inline-block; background-color: #000000; padding: 12px 14px; border-radius: 12px; line-height: 0;">
-          <img src="assets/skills/reactnative-colored.svg" alt="React Native" title="React Native" width="48" height="48" style="display: block; vertical-align: middle" />
+      <p align="left" style="line-height: 0;">
+        <span style="display: inline-block; background: #242938; border-radius: 16px; padding: 10px; margin: 0 6px 6px 0; vertical-align: middle;">
+          <img src="assets/skills/reactnative-colored.svg" alt="React Native" title="React Native" width="48" height="48" style="display: block; max-width: 100%; height: auto;" />
         </span>
       </p>
     </td>
@@ -53,7 +53,7 @@
       <strong>Backend</strong>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,flask,django,graphql" />
+          <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,flask,django,graphql&theme=dark" alt="Backend" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
@@ -63,7 +63,7 @@
       <strong>Databases</strong>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,dynamodb,aws" />
+          <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,dynamodb,aws&theme=dark" alt="Databases" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
@@ -71,7 +71,7 @@
       <strong>Cloud &amp; DevOps</strong>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,kafka,git,aws" />
+          <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,kafka,git,aws&theme=dark" alt="Cloud &amp; DevOps" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
@@ -81,19 +81,27 @@
       <strong>AI / ML Core</strong>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=pytorch,pycharm,anaconda,tensorflow,opencv,matlab" />
+          <img src="https://skillicons.dev/icons?i=pytorch,pycharm,anaconda,tensorflow,opencv,matlab&theme=dark" alt="AI / ML Core" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
     <td valign="top" width="50%">
       <strong>LLM &amp; Agent Stack</strong>
-      <p align="left">
-        <span style="display: inline-block; background-color: #000000; padding: 12px 14px; border-radius: 12px; line-height: 0;">
-          <img src="assets/skills/openai-colored.svg" alt="OpenAI" title="OpenAI" width="48" height="48" style="display: inline-block; margin: 0 6px 0 0; vertical-align: middle" />
-          <img src="assets/skills/langchain-colored.svg" alt="LangChain" title="LangChain" width="48" height="48" style="display: inline-block; margin: 0 6px 0 0; vertical-align: middle" />
-          <img src="assets/skills/langgraph-colored.svg" alt="LangGraph" title="LangGraph" width="48" height="48" style="display: inline-block; margin: 0 6px 0 0; vertical-align: middle" />
-          <img src="assets/skills/crewai-colored.svg" alt="CrewAI" title="CrewAI" width="48" height="48" style="display: inline-block; margin: 0 6px 0 0; vertical-align: middle" />
-          <img src="assets/skills/huggingface-colored.svg" alt="Hugging Face" title="Hugging Face" width="48" height="48" style="display: inline-block; margin: 0; vertical-align: middle" />
+      <p align="left" style="line-height: 0;">
+        <span style="display: inline-block; background: #242938; border-radius: 16px; padding: 10px; margin: 0 6px 6px 0; vertical-align: middle;">
+          <img src="assets/skills/openai-colored.svg" alt="OpenAI" title="OpenAI" width="48" height="48" style="display: block; max-width: 100%; height: auto;" />
+        </span>
+        <span style="display: inline-block; background: #242938; border-radius: 16px; padding: 10px; margin: 0 6px 6px 0; vertical-align: middle;">
+          <img src="assets/skills/langchain-colored.svg" alt="LangChain" title="LangChain" width="48" height="48" style="display: block; max-width: 100%; height: auto;" />
+        </span>
+        <span style="display: inline-block; background: #242938; border-radius: 16px; padding: 10px; margin: 0 6px 6px 0; vertical-align: middle;">
+          <img src="assets/skills/langgraph-colored.svg" alt="LangGraph" title="LangGraph" width="48" height="48" style="display: block; max-width: 100%; height: auto;" />
+        </span>
+        <span style="display: inline-block; background: #242938; border-radius: 16px; padding: 10px; margin: 0 6px 6px 0; vertical-align: middle;">
+          <img src="assets/skills/crewai-colored.svg" alt="CrewAI" title="CrewAI" width="48" height="48" style="display: block; max-width: 100%; height: auto;" />
+        </span>
+        <span style="display: inline-block; background: #242938; border-radius: 16px; padding: 10px; margin: 0 6px 6px 0; vertical-align: middle;">
+          <img src="assets/skills/huggingface-colored.svg" alt="Hugging Face" title="Hugging Face" width="48" height="48" style="display: block; max-width: 100%; height: auto;" />
         </span>
       </p>
     </td>
