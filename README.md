@@ -45,6 +45,9 @@
       <strong>Mobile</strong>
       <p align="left">
         <img src="assets/skills/reactnative-colored.svg" alt="React Native" title="React Native" style="max-width: 100%; height: auto;" />
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="Flutter, Dart, Kotlin, Swift, Android Studio" style="max-width: 100%; height: auto;" />
+        </a>
       </p>
     </td>
     <td valign="top" width="50%">
@@ -69,7 +72,7 @@
       <strong>Cloud &amp; DevOps</strong>
       <p align="left">
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,kafka,git,aws&theme=dark" alt="Cloud &amp; DevOps" style="max-width: 100%; height: auto;" />
+          <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,kafka,git&theme=dark" alt="Cloud &amp; DevOps" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
