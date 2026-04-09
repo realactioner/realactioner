@@ -26,17 +26,13 @@
     <td valign="top" width="50%">
       <strong>Languages</strong><br/><br/>
       <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,java&theme=dark" alt="Languages" style="max-width: 100%; height: auto;" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,java&theme=dark" alt="Languages" style="max-width: 100%; height: auto;" />
       </p>
     </td>
     <td valign="top" width="50%">
       <strong>Frontend</strong><br/><br/>
       <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,materialui,redux&theme=dark" alt="Frontend" style="max-width: 100%; height: auto;" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,materialui,redux&theme=dark" alt="Frontend" style="max-width: 100%; height: auto;" />
       </p>
     </td>
   </tr>
@@ -44,17 +40,13 @@
     <td valign="top" width="50%">
       <strong>Mobile</strong><br/><br/>
       <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="Flutter, Dart, Kotlin, Swift, Android Studio" style="max-width: 100%; height: auto;" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="React, Flutter, Dart, Kotlin, Swift, Android Studio" style="max-width: 100%; height: auto;" />
       </p>
     </td>
     <td valign="top" width="50%">
       <strong>Backend</strong><br/><br/>
       <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,flask,django,graphql&theme=dark" alt="Backend" style="max-width: 100%; height: auto;" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,flask,django,graphql&theme=dark" alt="Backend" style="max-width: 100%; height: auto;" />
       </p>
     </td>
   </tr>
@@ -62,17 +54,13 @@
     <td valign="top" width="50%">
       <strong>Databases</strong><br/><br/>
       <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,dynamodb,aws&theme=dark" alt="Databases" style="max-width: 100%; height: auto;" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,dynamodb,aws&theme=dark" alt="Databases" style="max-width: 100%; height: auto;" />
       </p>
     </td>
     <td valign="top" width="50%">
       <strong>Cloud &amp; DevOps</strong><br/><br/>
       <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,kafka,git&theme=dark" alt="Cloud &amp; DevOps" style="max-width: 100%; height: auto;" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,kafka,git&theme=dark" alt="Cloud &amp; DevOps" style="max-width: 100%; height: auto;" />
       </p>
     </td>
   </tr>
@@ -80,9 +68,7 @@
     <td valign="top" width="50%">
       <strong>AI / ML Core</strong><br/><br/>
       <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=pytorch,pycharm,anaconda,tensorflow,opencv,matlab&theme=dark" alt="AI / ML Core" style="max-width: 100%; height: auto;" />
-        </a>
+        <img src="https://skillicons.dev/icons?i=pytorch,pycharm,anaconda,tensorflow,opencv,matlab&theme=dark" alt="AI / ML Core" style="max-width: 100%; height: auto;" />
       </p>
     </td>
     <td valign="top" width="50%">
