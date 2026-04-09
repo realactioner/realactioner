@@ -25,7 +25,7 @@
   <tr>
     <td valign="top" width="50%">
       <strong>Languages</strong>
-      <p align="left">
+      <p align="left" style="margin-top: 12px;">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,java&theme=dark" alt="Languages" style="max-width: 100%; height: auto;" />
         </a>
@@ -33,7 +33,7 @@
     </td>
     <td valign="top" width="50%">
       <strong>Frontend</strong>
-      <p align="left">
+      <p align="left" style="margin-top: 12px;">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,materialui,redux&theme=dark" alt="Frontend" style="max-width: 100%; height: auto;" />
         </a>
@@ -43,7 +43,7 @@
   <tr>
     <td valign="top" width="50%">
       <strong>Mobile</strong>
-      <p align="left">
+      <p align="left" style="margin-top: 12px;">
         <img src="assets/skills/reactnative-colored.svg" alt="React Native" title="React Native" style="max-width: 100%; height: auto;" />
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="Flutter, Dart, Kotlin, Swift, Android Studio" style="max-width: 100%; height: auto;" />
@@ -52,7 +52,7 @@
     </td>
     <td valign="top" width="50%">
       <strong>Backend</strong>
-      <p align="left">
+      <p align="left" style="margin-top: 12px;">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,flask,django,graphql&theme=dark" alt="Backend" style="max-width: 100%; height: auto;" />
         </a>
@@ -62,7 +62,7 @@
   <tr>
     <td valign="top" width="50%">
       <strong>Databases</strong>
-      <p align="left">
+      <p align="left" style="margin-top: 12px;">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,dynamodb,aws&theme=dark" alt="Databases" style="max-width: 100%; height: auto;" />
         </a>
@@ -70,7 +70,7 @@
     </td>
     <td valign="top" width="50%">
       <strong>Cloud &amp; DevOps</strong>
-      <p align="left">
+      <p align="left" style="margin-top: 12px;">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,kafka,git&theme=dark" alt="Cloud &amp; DevOps" style="max-width: 100%; height: auto;" />
         </a>
@@ -80,7 +80,7 @@
   <tr>
     <td valign="top" width="50%">
       <strong>AI / ML Core</strong>
-      <p align="left">
+      <p align="left" style="margin-top: 12px;">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=pytorch,pycharm,anaconda,tensorflow,opencv,matlab&theme=dark" alt="AI / ML Core" style="max-width: 100%; height: auto;" />
         </a>
@@ -88,7 +88,7 @@
     </td>
     <td valign="top" width="50%">
       <strong>LLM &amp; Agent Stack</strong>
-      <p align="left">
+      <p align="left" style="margin-top: 12px;">
         <img src="assets/skills/llm-agent-stack.svg" alt="OpenAI, LangChain, LangGraph, CrewAI, Hugging Face" title="LLM &amp; Agent Stack" style="max-width: 100%; height: auto;" />
       </p>
     </td>
