@@ -10,8 +10,11 @@
 <br>
 
 - 🔭 I have 8+ years of experience in Full Stack Development, AI Engineering, and Mobile Development
+
 - 🌱 I’m currently building real-time AI-powered systems using LangChain, FastAPI, and OpenAI to accelerate knowledge extraction and document analysis
+
 - 💬 Ask me about web development, backend optimization, machine learning applications, or how to integrate LLMs into production-grade systems
+
 - 🤖 Fun fact If you laid all the cables in the world end-to-end, they could circle the Earth more than 200 times!
 
 <br>
