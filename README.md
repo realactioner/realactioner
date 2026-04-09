@@ -19,60 +19,60 @@
 
 <br>
 
-## 🛠️ Skills
+<h3 align="left">Skills:</h3>
 
-- 💻 Languages
+- Languages
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,java" />
   </a>
 </p>
 
-- 🎨 Frontend
+- Frontend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,materialui,redux" />
   </a>
 </p>
 
-- 📱 Mobile
-<p align="left">
-  <img src="assets/skills/reactnative-colored.svg" alt="React Native" title="React Native" width="48" />
-</p>
-
-- ⚙️ Backend
+- Backend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,flask,django,graphql" />
   </a>
 </p>
 
-- 🗄️ Databases
+- Databases
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,dynamodb,aws" />
   </a>
 </p>
 
-- ☁️ Cloud & DevOps
+- Cloud & DevOps
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,kafka,git,aws" />
   </a>
 </p>
 
-- 🤖 AI / ML Core
+- AI / ML Core
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
   </a>
 </p>
 
-- 🧠 LLM & Agent Stack
+- LLM & Agent Stack
 <p align="left">
   <img src="assets/skills/openai-colored.svg" alt="OpenAI" title="OpenAI" width="36" style="margin: 0 6px" />
   <img src="assets/skills/langchain-colored.svg" alt="LangChain" title="LangChain" width="36" style="margin: 0 6px" />
   <img src="assets/skills/langgraph-colored.svg" alt="LangGraph" title="LangGraph" width="36" style="margin: 0 6px" />
   <img src="assets/skills/crewai-colored.svg" alt="CrewAI" title="CrewAI" width="36" style="margin: 0 6px" />
   <img src="assets/skills/huggingface-colored.svg" alt="Hugging Face" title="Hugging Face" width="36" style="margin: 0 6px" />
+</p>
+
+- Mobile
+<p align="left">
+  <img src="assets/skills/reactnative-colored.svg" alt="React Native" title="React Native" width="48" />
 </p>
