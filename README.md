@@ -44,7 +44,9 @@
     <td valign="top" width="50%">
       <strong>Mobile</strong>
       <p align="left">
-        <img src="assets/skills/reactnative-colored.svg" alt="React Native" title="React Native" width="48" />
+        <span style="display: inline-block; background-color: #000000; padding: 12px 14px; border-radius: 12px; line-height: 0;">
+          <img src="assets/skills/reactnative-colored.svg" alt="React Native" title="React Native" width="48" height="48" style="display: block; vertical-align: middle" />
+        </span>
       </p>
     </td>
     <td valign="top" width="50%">
@@ -86,11 +88,13 @@
     <td valign="top" width="50%">
       <strong>LLM &amp; Agent Stack</strong>
       <p align="left">
-        <img src="assets/skills/openai-colored.svg" alt="OpenAI" title="OpenAI" width="36" style="margin: 0 6px" />
-        <img src="assets/skills/langchain-colored.svg" alt="LangChain" title="LangChain" width="36" style="margin: 0 6px" />
-        <img src="assets/skills/langgraph-colored.svg" alt="LangGraph" title="LangGraph" width="36" style="margin: 0 6px" />
-        <img src="assets/skills/crewai-colored.svg" alt="CrewAI" title="CrewAI" width="36" style="margin: 0 6px" />
-        <img src="assets/skills/huggingface-colored.svg" alt="Hugging Face" title="Hugging Face" width="36" style="margin: 0 6px" />
+        <span style="display: inline-block; background-color: #000000; padding: 12px 14px; border-radius: 12px; line-height: 0;">
+          <img src="assets/skills/openai-colored.svg" alt="OpenAI" title="OpenAI" width="48" height="48" style="display: inline-block; margin: 0 6px 0 0; vertical-align: middle" />
+          <img src="assets/skills/langchain-colored.svg" alt="LangChain" title="LangChain" width="48" height="48" style="display: inline-block; margin: 0 6px 0 0; vertical-align: middle" />
+          <img src="assets/skills/langgraph-colored.svg" alt="LangGraph" title="LangGraph" width="48" height="48" style="display: inline-block; margin: 0 6px 0 0; vertical-align: middle" />
+          <img src="assets/skills/crewai-colored.svg" alt="CrewAI" title="CrewAI" width="48" height="48" style="display: inline-block; margin: 0 6px 0 0; vertical-align: middle" />
+          <img src="assets/skills/huggingface-colored.svg" alt="Hugging Face" title="Hugging Face" width="48" height="48" style="display: inline-block; margin: 0; vertical-align: middle" />
+        </span>
       </p>
     </td>
   </tr>
