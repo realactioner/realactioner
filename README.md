@@ -44,9 +44,8 @@
     <td valign="top" width="50%">
       <strong>Mobile</strong>
       <p align="left" style="margin-top: 12px;">
-        <img src="assets/skills/reactnative-colored.svg" alt="React Native" title="React Native" style="max-width: 100%; height: auto;" />
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="Flutter, Dart, Kotlin, Swift, Android Studio" style="max-width: 100%; height: auto;" />
+          <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="Flutter, Dart, Kotlin, Swift, Android Studio" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
