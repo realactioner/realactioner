@@ -1,4 +1,4 @@
-<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
+﻿<img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Real Actioner</h1>
 <h3 align="center">A passionate Software Engineer & Problem Solver </h3>
@@ -21,73 +21,58 @@
 
 ## 🛠️ Skills
 
-<div align="left">
-  <table border="0" width="100%" cellspacing="0" cellpadding="6">
-    <tr>
-      <td valign="middle" width="200"><strong>💻 Languages:</strong></td>
-      <td valign="middle">
-        <img src="assets/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/typescript-colored.svg" alt="TypeScript" title="TypeScript" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/c-colored.svg" alt="C" title="C" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" style="margin: 0 6px" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle" width="200"><strong>🎨 Frontend:</strong></td>
-      <td valign="middle">
-        <img src="assets/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/react-colored.svg" alt="React" title="React" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/nextjs-colored.svg" alt="NextJs" title="NextJs" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/materialui-colored.svg" alt="Material UI" title="Material UI" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" style="margin: 0 6px" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle" width="200"><strong>⚙️ Backend:</strong></td>
-      <td valign="middle">
-        <img src="assets/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/express-colored.svg" alt="Express" title="Express" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/fastapi-colored.svg" alt="Fast API" title="Fast API" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/flask-colored.svg" alt="Flask" title="Flask" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/django-colored.svg" alt="Django" title="Django" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/graphql-colored.svg" alt="GraphQL" title="GraphQL" width="36" height="36" style="margin: 0 6px" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle" width="200"><strong>🗄️ Databases:</strong></td>
-      <td valign="middle">
-        <img src="assets/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/dynamodb-colored.svg" alt="Amazon DynamoDB" title="Amazon DynamoDB" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/amazonrds-colored.svg" alt="Amazon RDS" title="Amazon RDS" width="36" height="36" style="margin: 0 6px" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle" width="200"><strong>☁️ Cloud &amp; DevOps:</strong></td>
-      <td valign="middle">
-        <img src="assets/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/kubernetes-colored.svg" alt="Kubernetes" title="Kubernetes" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/kafka-colored.svg" alt="Apache Kafka" title="Apache Kafka" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" style="margin: 0 6px" />
-      </td>
-    </tr>
-    <tr>
-      <td valign="middle" width="200"><strong>🤖 AI &amp; ML:</strong></td>
-      <td valign="middle">
-        <img src="assets/skills/pytorch-colored.svg" alt="PyTorch" title="PyTorch" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/tensorflow-colored.svg" alt="TensorFlow" title="TensorFlow" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/openai-colored.svg" alt="OpenAI" title="OpenAI" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/huggingface-colored.svg" alt="Hugging Face" title="Hugging Face" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/langchain-colored.svg" alt="LangChain" title="LangChain" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/langgraph-colored.svg" alt="LangGraph" title="LangGraph" width="36" height="36" style="margin: 0 6px" />
-        <img src="assets/skills/crewai-colored.svg" alt="CrewAI" title="CrewAI" width="36" height="36" style="margin: 0 6px" />
-      </td>
-    </tr>
-  </table>
-</div>
+- 💻 Languages
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,java" />
+  </a>
+</p>
+
+- 🎨 Frontend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,materialui,redux" />
+  </a>
+</p>
+
+- 📱 Mobile
+<p align="left">
+  <img src="assets/skills/reactnative-colored.svg" alt="React Native" title="React Native" width="48" />
+</p>
+
+- ⚙️ Backend
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,flask,django,graphql" />
+  </a>
+</p>
+
+- 🗄️ Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,dynamodb,aws" />
+  </a>
+</p>
+
+- ☁️ Cloud & DevOps
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,kafka,git,aws" />
+  </a>
+</p>
+
+- 🤖 AI / ML Core
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+  </a>
+</p>
+
+- 🧠 LLM & Agent Stack
+<p align="left">
+  <img src="assets/skills/openai-colored.svg" alt="OpenAI" title="OpenAI" width="36" style="margin: 0 6px" />
+  <img src="assets/skills/langchain-colored.svg" alt="LangChain" title="LangChain" width="36" style="margin: 0 6px" />
+  <img src="assets/skills/langgraph-colored.svg" alt="LangGraph" title="LangGraph" width="36" style="margin: 0 6px" />
+  <img src="assets/skills/crewai-colored.svg" alt="CrewAI" title="CrewAI" width="36" style="margin: 0 6px" />
+  <img src="assets/skills/huggingface-colored.svg" alt="Hugging Face" title="Hugging Face" width="36" style="margin: 0 6px" />
+</p>
