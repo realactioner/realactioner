@@ -24,16 +24,16 @@
 <table border="0" width="100%" cellspacing="0" cellpadding="12">
   <tr>
     <td valign="top" width="50%">
-      <strong>Languages</strong>
-      <p align="left" style="margin-top: 12px;">
+      <strong>Languages</strong><br/><br/>
+      <p align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=python,typescript,javascript,c,cpp,java&theme=dark" alt="Languages" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
     <td valign="top" width="50%">
-      <strong>Frontend</strong>
-      <p align="left" style="margin-top: 12px;">
+      <strong>Frontend</strong><br/><br/>
+      <p align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwindcss,materialui,redux&theme=dark" alt="Frontend" style="max-width: 100%; height: auto;" />
         </a>
@@ -42,16 +42,16 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Mobile</strong>
-      <p align="left" style="margin-top: 12px;">
+      <strong>Mobile</strong><br/><br/>
+      <p align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,swift,androidstudio&theme=dark" alt="Flutter, Dart, Kotlin, Swift, Android Studio" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
     <td valign="top" width="50%">
-      <strong>Backend</strong>
-      <p align="left" style="margin-top: 12px;">
+      <strong>Backend</strong><br/><br/>
+      <p align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=nodejs,expressjs,fastapi,flask,django,graphql&theme=dark" alt="Backend" style="max-width: 100%; height: auto;" />
         </a>
@@ -60,16 +60,16 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Databases</strong>
-      <p align="left" style="margin-top: 12px;">
+      <strong>Databases</strong><br/><br/>
+      <p align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,dynamodb,aws&theme=dark" alt="Databases" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
     <td valign="top" width="50%">
-      <strong>Cloud &amp; DevOps</strong>
-      <p align="left" style="margin-top: 12px;">
+      <strong>Cloud &amp; DevOps</strong><br/><br/>
+      <p align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,kafka,git&theme=dark" alt="Cloud &amp; DevOps" style="max-width: 100%; height: auto;" />
         </a>
@@ -78,16 +78,16 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>AI / ML Core</strong>
-      <p align="left" style="margin-top: 12px;">
+      <strong>AI / ML Core</strong><br/><br/>
+      <p align="left">
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=pytorch,pycharm,anaconda,tensorflow,opencv,matlab&theme=dark" alt="AI / ML Core" style="max-width: 100%; height: auto;" />
         </a>
       </p>
     </td>
     <td valign="top" width="50%">
-      <strong>LLM &amp; Agent Stack</strong>
-      <p align="left" style="margin-top: 12px;">
+      <strong>LLM &amp; Agent Stack</strong><br/><br/>
+      <p align="left">
         <img src="assets/skills/llm-agent-stack.svg" alt="OpenAI, LangChain, LangGraph, CrewAI, Hugging Face" title="LLM &amp; Agent Stack" style="max-width: 100%; height: auto;" />
       </p>
     </td>
