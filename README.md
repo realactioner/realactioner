@@ -31,7 +31,8 @@
         <img src="assets/skillicons/javascript.svg" alt="JavaScript" width="40" height="40" />&nbsp;
         <img src="assets/skillicons/c.svg" alt="C" width="40" height="40" />&nbsp;
         <img src="assets/skillicons/cpp.svg" alt="C++" width="40" height="40" />&nbsp;
-        <img src="assets/skillicons/java.svg" alt="Java" width="40" height="40" />
+        <img src="assets/skillicons/java.svg" alt="Java" width="40" height="40" />&nbsp;
+        <img src="assets/skillicons/golang.svg" alt="Golang" width="40" height="40" />
       </p>
     </td>
     <td valign="top" width="50%">
@@ -41,8 +42,8 @@
         <img src="assets/skillicons/css.svg" alt="CSS" width="40" height="40" />&nbsp;
         <img src="assets/skillicons/react.svg" alt="React" width="40" height="40" />&nbsp;
         <img src="assets/skillicons/nextjs.svg" alt="Next.js" width="40" height="40" />&nbsp;
-        <img src="assets/skillicons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" />&nbsp;
         <img src="assets/skillicons/redux.svg" alt="Redux" width="40" height="40" />&nbsp;
+        <img src="assets/skillicons/tailwindcss.svg" alt="Tailwind CSS" width="40" height="40" />&nbsp;
         <img src="assets/skillicons/materialui.svg" alt="Material UI" width="40" height="40" />
       </p>
     </td>
