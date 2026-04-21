@@ -3,6 +3,10 @@
 <h1 align="center">Hi 👋, I'm Real Actioner</h1>
 <h3 align="center">A passionate Software Engineer & Problem Solver </h3>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/realActioner/realactioner/main/metrics.plugin.isocalendar.fullyear.svg" alt="Contribution calendar" />
+</p>
+
 <p align="center"> 
  <img src="https://img.shields.io/badge/Languages-Python | Java | Javascript | Typescript | C++ -green.svg" alt="Real Actioner's languages" />
 </p>
