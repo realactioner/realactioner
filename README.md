@@ -9,7 +9,7 @@
 
 <br>
 
-- 🔭 8+ years in **Full Stack**, **AI**, and **Mobile Development**
+- 🔭 9+ years in **Full Stack**, **AI**, and **Mobile Development**
 
 - 🌱 Currently building **real-time AI systems** with **LangChain** and **OpenAI**
 
