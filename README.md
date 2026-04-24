@@ -7,15 +7,17 @@
  <img src="https://img.shields.io/badge/Languages-Python | Java | Javascript | Typescript | C++ -green.svg" alt="Real Actioner's languages" />
 </p>
 
+## About Me
+
 <br>
 
-- 🔭 9+ years in **Full Stack**, **AI**, and **Mobile Development**
-
-- 🌱 Currently building **real-time AI systems** with **LangChain** and **OpenAI**
-
-- 💬 Ask me about **backend optimization** and **machine learning**
-
-- 🤖 Fun fact **If you laid all the cables in the world, they'd circle the Earth 200+ times**
+<h4>- 🔭 9+ years building **Full Stack, AI, and Mobile applications** in production environments</h4>
+<h4>- 🧠 Build **LLM-powered systems and intelligent workflows** for real-world use cases</h4>
+<h4>- 🔍 Work on **RAG pipelines and semantic search systems** over large unstructured datasets</h4>
+<h4>- ⚡ Design **low-latency, real-time backend services** with a strong focus on performance</h4>
+<h4>- 🏗️ Architect **scalable APIs and microservice-based systems** with clean, maintainable structure</h4>
+<h4>- ☁️ Deploy and scale applications using **AWS cloud and serverless infrastructure**</h4>
+<h4>- 🧩 Focus on **system design, scalability, and clean architecture principles**</h4>
 
 <br>
 
@@ -23,7 +25,7 @@
   <img src="https://raw.githubusercontent.com/realactioner/realactioner/main/metrics.plugin.isocalendar.fullyear.svg" alt="Contribution calendar" />
 </p>
 
-<h3 align="left">Skills:</h3>
+### Skills
 
 <table border="0" width="100%" cellspacing="0" cellpadding="12">
   <tr>
