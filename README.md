@@ -11,13 +11,13 @@
 
 <br>
 
-<h4>- 🔭 9+ years building **Full Stack, AI, and Mobile applications** in production environments</h4>
-<h4>- 🧠 Build **LLM-powered systems and intelligent workflows** for real-world use cases</h4>
-<h4>- 🔍 Work on **RAG pipelines and semantic search systems** over large unstructured datasets</h4>
-<h4>- ⚡ Design **low-latency, real-time backend services** with a strong focus on performance</h4>
-<h4>- 🏗️ Architect **scalable APIs and microservice-based systems** with clean, maintainable structure</h4>
-<h4>- ☁️ Deploy and scale applications using **AWS cloud and serverless infrastructure**</h4>
-<h4>- 🧩 Focus on **system design, scalability, and clean architecture principles**</h4>
+- 🔭 9+ years building Full Stack, AI, and Mobile applications in production environments
+- 🧠 Build LLM-powered systems and intelligent workflows for real-world use cases
+- 🔍 Work on RAG pipelines and semantic search systems over large unstructured datasets
+- ⚡ Design low-latency, real-time backend services with a strong focus on performance
+- 🏗️ Architect scalable APIs and microservice-based systems with clean, maintainable structure
+- ☁️ Deploy and scale applications using AWS cloud and serverless infrastructure
+- 🧩 Focus on system design, scalability, and clean architecture principles
 
 <br>
 
