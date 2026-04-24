@@ -7,7 +7,7 @@
  <img src="https://img.shields.io/badge/Languages-Python | Java | Javascript | Typescript | C++ -green.svg" alt="Real Actioner's languages" />
 </p>
 
-## About Me
+## ✨ About Me
 
 <br>
 
@@ -21,13 +21,13 @@
 
 <br>
 
-## Activity
+## 📅 Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/realactioner/realactioner/main/metrics.plugin.isocalendar.fullyear.svg" alt="Contribution calendar" />
 </p>
 
-## Skills
+## 🛠️ Skills
 
 <table border="0" width="100%" cellspacing="0" cellpadding="12">
   <tr>
