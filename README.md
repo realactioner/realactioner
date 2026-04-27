@@ -1,8 +1,11 @@
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="20%" style="display:inline;">
 
 <h1 align="center">Hi 👋, I'm Real Actioner</h1>
+<h3 align="center">A passionate Software Engineer & Problem Solver </h3>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=realactioner&data=followers,repositories,stars,commits&theme=magic_girl)](https://github.com/Jurredr/github-widgetbox)
+<p align="center"> 
+ <img src="https://img.shields.io/badge/Languages-Python | Java | Javascript | Typescript | C++ -green.svg" alt="Real Actioner's languages" />
+</p>
 
 ## ✨ About Me
 
@@ -17,6 +20,8 @@
 - 🧩 Focus on system design, scalability, and clean architecture principles
 
 <br>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=realactioner&data=followers,repositories,stars,commits&theme=magic_girl)](https://github.com/Jurredr/github-widgetbox)
 
 ## 📅 Activity
 
