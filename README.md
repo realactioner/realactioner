@@ -34,7 +34,7 @@
 <table border="0" width="100%" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
-      <h3>Languages</h3><br/><br/>
+      <h3>Languages</h3>
       <p align="left">
         <img src="assets/skillicons/python.svg" alt="Python" title="Python" width="48" height="48" />&nbsp;
         <img src="assets/skillicons/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />&nbsp;
@@ -46,7 +46,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>Frontend</h3><br/><br/>
+      <h3>Frontend</h3>
       <p align="left">
         <img src="assets/skillicons/html.svg" alt="HTML" title="HTML" width="48" height="48" />&nbsp;
         <img src="assets/skillicons/css.svg" alt="CSS" title="CSS" width="48" height="48" />&nbsp;
@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>Mobile</h3><br/><br/>
+      <h3>Mobile</h3>
       <p align="left">
         <img src="assets/skillicons/react.svg" alt="React" title="React" width="48" height="48" />&nbsp;
         <img src="assets/skillicons/flutter.svg" alt="Flutter" title="Flutter" width="48" height="48" />&nbsp;
@@ -71,7 +71,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>Backend</h3><br/><br/>
+      <h3>Backend</h3>
       <p align="left">
         <img src="assets/skillicons/nodejs.svg" alt="Node.js" title="Node.js" width="48" height="48" />&nbsp;
         <img src="assets/skillicons/expressjs.svg" alt="Express" title="Express" width="48" height="48" />&nbsp;
@@ -84,7 +84,7 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>Databases</h3><br/><br/>
+      <h3>Databases</h3>
       <p align="left">
         <img src="assets/skillicons/mongodb.svg" alt="MongoDB" title="MongoDB" width="48" height="48" />&nbsp;
         <img src="assets/skillicons/mysql.svg" alt="MySQL" title="MySQL" width="48" height="48" />&nbsp;
@@ -94,7 +94,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>Cloud &amp; DevOps</h3><br/><br/>
+      <h3>Cloud &amp; DevOps</h3>
       <p align="left">
         <img src="assets/skillicons/azure.svg" alt="Azure" title="Azure" width="48" height="48" />&nbsp;
         <img src="assets/skillicons/docker.svg" alt="Docker" title="Docker" width="48" height="48" />&nbsp;
@@ -106,7 +106,7 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <h3>AI / ML Core</h3><br/><br/>
+      <h3>AI / ML Core</h3>
       <p align="left">
         <img src="assets/skillicons/pytorch.svg" alt="PyTorch" title="PyTorch" width="48" height="48" />&nbsp;
         <img src="assets/skillicons/pycharm.svg" alt="PyCharm" title="PyCharm" width="48" height="48" />&nbsp;
@@ -117,7 +117,7 @@
       </p>
     </td>
     <td valign="top" width="50%">
-      <h3>LLM &amp; Agent Stack</h3><br/><br/>
+      <h3>LLM &amp; Agent Stack</h3>
       <p align="left">
         <img src="assets/skillicons/openai.svg" alt="OpenAI" title="OpenAI" width="48" height="48" />&nbsp;
         <img src="assets/skillicons/langchain.svg" alt="LangChain" title="LangChain" width="48" height="48" />&nbsp;
