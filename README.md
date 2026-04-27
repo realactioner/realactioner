@@ -31,7 +31,7 @@
 
 ## 🛠️ Skills
 
-<table border="0" width="100%" cellspacing="0" cellpadding="12">
+<table border="0" width="100%" cellspacing="0">
   <tr>
     <td valign="top" width="50%">
       <h3>Languages</h3><br/><br/>
