@@ -21,7 +21,7 @@
 
 <br>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=realactioner&data=followers,repositories,stars,commits&theme=nautilus)]
+![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=realactioner&data=followers,repositories,stars,commits&theme=viridescent)
 
 ## 📅 Activity
 
