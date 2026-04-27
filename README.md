@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Real Actioner</h1>
 <h3 align="center">A passionate Software Engineer & Problem Solver </h3>
 
-<p align="center"> 
- <img src="https://img.shields.io/badge/Languages-Python | Java | Javascript | Typescript | C++ -green.svg" alt="Real Actioner's languages" />
-</p>
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=realactioner&data=followers,repositories,stars,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
 
 ## ✨ About Me
 
