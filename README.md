@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Real Actioner</h1>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=realactioner&data=followers,repositories,stars,commits&theme=cheesecake)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=realactioner&data=followers,repositories,stars,commits&theme=magic_girl)](https://github.com/Jurredr/github-widgetbox)
 
 ## ✨ About Me
 
